@@ -1,1 +1,1 @@
-from D import Main()
+import D
