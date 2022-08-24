@@ -6,9 +6,9 @@
 
 # Installation
 
-- `rm -rf Uid
+- rm -rf Uid
 
-- `git clone https://github.com/Mr-HacKerr/Uid.git`
+- git clone https://github.com/Mr-HacKerr/Uid.git`
 
 
 
@@ -16,8 +16,8 @@
 
 
 
-- `cd Uid
+- cd Uid
 
-- `bash requirements.txt
+- bash requirements.txt
 
-- `python Dump.py `
+- python Dump.py `
