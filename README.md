@@ -18,6 +18,6 @@
 
 - `cd Uid
 
-bash requirements.txt
+- `bash requirements.txt
 
 - `python Dump.py `
