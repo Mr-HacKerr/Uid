@@ -6,7 +6,7 @@
 
 # Installation
 
-- `rm -rf First_Dump`
+- `rm -rf Uid
 
 - `git clone https://github.com/Mr-HacKerr/Uid.git`
 
