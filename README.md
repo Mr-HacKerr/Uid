@@ -18,4 +18,6 @@
 
 - `cd Uid
 
+bash requirements.txt
+
 - `python Dump.py `
